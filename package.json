@@ -1,0 +1,26 @@
+{
+  "name": "request-multiple-urls",
+  "version": "1.0.0",
+  "description": "Request Multiple URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gajendra93/request-multiple-urls.git"
+  },
+  "author": "Gajendra Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gajendra93/request-multiple-urls/issues"
+  },
+  "homepage": "https://github.com/gajendra93/request-multiple-urls#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.0.0"
+  }
+}
