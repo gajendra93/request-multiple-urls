@@ -1,6 +1,6 @@
 {
-  "name": "request-multiple-urls",
-  "version": "1.0.0",
+  "name": "@gajendra93/request-multiple-urls",
+  "version": "1.0.1",
   "description": "Request Multiple URLs",
   "main": "index.js",
   "scripts": {
